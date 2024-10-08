@@ -23,7 +23,7 @@ This is an advanced section and requires **Visual Studio** and compiling of the 
 ![uproject_generate.webp](assets/uproject_generate.webp)
 
 :::info
-If the project generated successfully, **a few new folders/files will show up**. (e.g. the Intermediate folder and .sln file)
+If the project generated successfully, a few **new folders/files will show up**. (e.g. the Intermediate folder and .sln file)
 :::
 
 ### Compiling the project in Visual Studio

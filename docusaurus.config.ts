@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'SCP:5K Modding',
   tagline: '',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/scp5k_logo.png',
 
   // Set the production url of your site here
   url: 'https://5kmodding.scp',
