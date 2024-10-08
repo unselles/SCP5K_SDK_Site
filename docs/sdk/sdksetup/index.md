@@ -10,10 +10,18 @@ This is an advanced section and requires **Visual Studio** and compiling of the 
 
 ### Visual Studio requirements
 
-1. Download and install [Visual Studio 2022 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) & [Unreal Engine](https://www.unrealengine.com/en-US/download)
-2. Follow the installation instructions, in the `Workloads` section, make sure to tick the following:
+Download and install:
+* [Visual Studio 2022 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+  
+Follow the installation instructions, in the `Workloads` section, make sure to tick the following:
 
 ![vs_installation.webp](assets/vs_installation.webp)
+
+* [Unreal Engine](https://www.unrealengine.com/en-US/download)
+
+It is recommended to use the Epic Games Launcher, follow the instructions and install `Unreal Engine 4.27.2` from the `Unreal Engine` section in the `Library` tab.
+
+* [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
 
 ### Generating project files
 

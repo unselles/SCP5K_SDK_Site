@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'SCP:5K Modding',
   tagline: '',
-  favicon: 'img/scp5k_logo.png',
+  favicon: 'img/scp5k_logo_new.png',
 
   // Set the production url of your site here
   url: 'https://5kmodding.scp',
@@ -69,14 +69,14 @@ const config: Config = {
       title: 'SCP:5K Modding',
       logo: {
         alt: 'Logo',
-        src: 'img/scp5k_logo_02.webp',
+        src: 'img/scp5k_logo_new.png',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Modding',
         },
         {
           href: 'https://github.com/unselles/SCP5K_SDK_Site',
