@@ -6,7 +6,9 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-font-family-base: 'Saira';
+/*  --ifm-font-family-base: 'Saira'; */
+
+  
   --ifm-color-primary: #c22525;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -31,5 +33,5 @@
 }
 
 {
-@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Saira&display=swap'); */
 }
