@@ -69,12 +69,12 @@ const config: Config = {
     //image: 'img/docusaurus-social-card.jpg',
     algolia: {
       // The application ID provided by Algolia
-      appId: 'YOUR_APP_ID',
+      appId: 'GM5C0U268N',
 
       // Public API key: it is safe to commit it
-      apiKey: 'YOUR_SEARCH_API_KEY',
+      apiKey: '4aabd17f43869aee28a536e35747ca31',
 
-      indexName: 'YOUR_INDEX_NAME',
+      indexName: 'scp5k-modding',
 
       // Optional: see doc section below
       contextualSearch: true,

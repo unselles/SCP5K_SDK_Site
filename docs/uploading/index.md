@@ -12,6 +12,6 @@ Most common place for uploading game mods, it hosts the majority of currently av
 
 ### Official Discord Server
 
-Certain mods are uploaded directly to the official Discord server.
+While Nexus is recommended for mod uploads, there is a dedicated section for mods on the official Discord server. You can also promote your Nexus mods there.
 
 [SCP:5K Official Modding Server](https://discord.com/invite/9hVCJvFqFW)
