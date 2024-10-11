@@ -58,3 +58,9 @@ Building projects can take a while, ignore the warnings and watch for any errors
 :::danger
 It's required to move the **UE4Editor-PlanarCut.dll** each time the project compiles, the editor will not start otherwise.
 :::
+
+:::warning
+To see all content, **enable Show Plugins Content** in the Content Browser's View Options.
+![Plugins](assets/editor_plugins.png)
+:::
+

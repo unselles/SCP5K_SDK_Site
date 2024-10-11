@@ -12,10 +12,9 @@ In case of any questions relating to the content of this site, please **contact 
 
 ### Contributing
 
-You can contribute by cloning the site's source from the GitHub link and creating your own fork. After pushing your own changes, it will be reviewed and pushed onto the live website.
+You can contribute by cloning the site's source from the GitHub link and creating your own fork. After pushing your own changes, they will be reviewed and pushed onto the live website.
 
 ### Official Links
 
-[Steam Page](https://store.steampowered.com/app/872670/SCP_5K/)
-
-[SCP:5K Official Website](https://scp5k.gg)
+* **[SCP:5K Steam Page](https://store.steampowered.com/app/872670/SCP_5K/)**
+* **[SCP:5K Official Website](https://scp5k.gg)**
