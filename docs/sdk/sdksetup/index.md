@@ -11,21 +11,21 @@ This is an advanced section and requires **Visual Studio** and compiling of the 
 ### Visual Studio requirements
 
 Download and install:
-* [Visual Studio 2022 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+* **[Visual Studio 2022 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)**
   
 Follow the installation instructions, in the `Workloads` section, make sure to tick the following:
 
 ![vs_installation.webp](assets/vs_installation.webp)
 
-* [Unreal Engine](https://www.unrealengine.com/en-US/download)
+* **[Unreal Engine](https://www.unrealengine.com/en-US/download)**
 
 It is recommended to use the Epic Games Launcher, follow the instructions and install `Unreal Engine 4.27.2` from the `Unreal Engine` section in the `Library` tab.
 
-* [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
+* **[.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)**
 
 ### Generating project files
 
-1. Download or clone the [SCP5K SDK](https://github.com/unselles/SCP5K_SDK), cloning is recommended for future updates.
+1. Download or clone the **[SCP5K SDK](https://github.com/unselles/SCP5K_SDK)**, cloning is recommended for future updates.
 2. After downloading/cloning, right-click the `.uproject` and `Generate Visual Studio project files`.
 
 ![uproject_generate.webp](assets/uproject_generate.webp)
@@ -59,8 +59,11 @@ Building projects can take a while, ignore the warnings and watch for any errors
 It's required to move the **UE4Editor-PlanarCut.dll** each time the project compiles, the editor will not start otherwise.
 :::
 
-:::warning
-To see all content, **enable Show Plugins Content** in the Content Browser's View Options.
+:::tip
+
+To see all content, **enable Show Plugin Content** in the Content Browser's View Options.
+
+
 ![Plugins](assets/editor_plugins.png)
 :::
 
