@@ -16,7 +16,7 @@ As SCP:5K is currently in its alpha development stage, some parts of this docume
 
 It is recommended to have basic understanding of `Unreal Engine 4` and `Visual Studio`.
 
-:::warning
+:::info
 Visual Studio installation is only required for the SDK.
 :::
 
