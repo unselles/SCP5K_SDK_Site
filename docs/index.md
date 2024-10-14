@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Welcome! This site hosts the unofficial modding documentation for SCP:5K.
 
-Please note that the site is a work in progress, and certain sections may be incomplete or lack detailed information. The source code for this site is available on GitHub, and community contributions are always welcome.
+Please note that **the site is a work in progress,** and certain sections may be incomplete or lack detailed information. The source code for this site is available on GitHub, and community contributions are always welcome.
 
 :::danger
 As SCP:5K is currently in its alpha development stage, some parts of this documentation may become outdated. While it was primarily created for version **0.14.1**, it is not necessarily limited to this version and will likely remain relevant.
