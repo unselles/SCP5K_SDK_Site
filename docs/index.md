@@ -29,5 +29,5 @@ Visual Studio installation is only required for the SDK.
 
 ### Modifying Assets
 
-* **[FModel](https://fmodel.app)** a tool for extraction files from game packages.
-* **[UAssetGUI](https://github.com/atenfyr/UAssetGUI/releases)** a tool for modifying 'cooked' Unreal Engine assets (.uasset).
+* **[FModel](https://fmodel.app)** a tool for extracting files from game packages `(.pak)`.
+* **[UAssetGUI](https://github.com/atenfyr/UAssetGUI/releases)** a tool for modifying 'cooked' Unreal Engine assets `(.uasset)`.
