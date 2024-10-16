@@ -6,13 +6,12 @@ sidebar_position: 4
 
 ##
 :::info
-This site **is not affiliated with Affray Interactive** and is purely community driven.
-In case of any questions relating to the content of this site, please **contact the site administration.** (Refer credits in the README.md in the GitHub source)
+**This site is not associated with Affray Interactive and is entirely driven by the community.** For any inquiries regarding the content of this site, please reach out to the site administration. (Refer to the credits in the README.md file in the GitHub repository.)
 :::
 
 ### Contributing
 
-You can contribute by cloning the site's source from the GitHub link and creating your own fork. After pushing your own changes, they will be reviewed and pushed onto the live website.
+To contribute, you can clone the site's source from the GitHub repository and create your own fork. After submitting your changes, they will be reviewed before being merged into the live site.
 
 ### Official Links
 

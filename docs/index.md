@@ -4,20 +4,19 @@ sidebar_position: 1
 
 # Introduction
 
-Here you'll find the unofficial SCP:5K modding documentation. 
+Welcome! This site hosts the unofficial modding documentation for SCP:5K.
 
-Please, do keep in mind that **the site is work-in-progress** and certain sections may be fully missing or/and lack information.
-This site's source is available on GitHub and is open for community contributions.
+Please note that **the site is a work in progress,** and certain sections may be incomplete or lack detailed information. The source code for this site is available on GitHub, and community contributions are always welcome.
 
 :::danger
-SCP:5K is in its alpha stage of development and certain parts of this site might become outdated. This documentation was created for, but is not limited to version **0.14.1**.
+As SCP:5K is currently in its alpha development stage, some parts of this documentation may become outdated. While it was primarily created for version **0.14.1**, it is not necessarily limited to this version and will likely remain relevant.
 :::
 
 ## Getting Started
 
 It is recommended to have basic understanding of `Unreal Engine 4` and `Visual Studio`.
 
-:::warning
+:::info
 Visual Studio installation is only required for the SDK.
 :::
 
