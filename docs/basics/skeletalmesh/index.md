@@ -28,7 +28,7 @@ FModel supports several formats. It is recommended to the `.UEModel` format, tho
 
 ### Importing and Exporting the Model with Blender
 
-1. Open Blender and [install the UEFormat addon](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
+1. Open Blender and **[install the UEFormat addon](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)**
 2. Restart Blender, then navigate to `File > Import > Unreal Model (.uemodel)`
 3. Select the model you want to import and adjust the import settings as shown below:
 
