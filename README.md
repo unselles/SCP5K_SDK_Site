@@ -1,5 +1,4 @@
-# Website
-
+# SCP:5K Unofficial Modding Docs
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 In case of any questions, let me know on Discord or Steam:
