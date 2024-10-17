@@ -13,7 +13,7 @@ Replacing textures is the easiest way to start modding. I recommend starting her
 * **[Photoshop](https://www.adobe.com/products/photoshop.html), [GIMP](https://www.gimp.org), [paint.net](https://www.getpaint.net)** or alternative
 * **[FModel](https://fmodel.app)** a tool for extracting files from game packages `(.pak)`.
 
-### Extracing Textures from the Game Files
+### Extracting Textures from the Game Files
 
 To start, we need to extract textures from the game packages.
 

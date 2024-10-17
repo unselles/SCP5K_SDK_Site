@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Setting up the Unofficial SDK
+# Setting Up the Unofficial SDK
 
 :::warning
 This is an advanced section and requires **Visual Studio** and compiling of the project. Read the instructions carefully.
 :::
 
-### Visual Studio requirements
+### Installing Prerequisites
 
 Download and install:
 * **[Visual Studio 2022 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)**
@@ -23,7 +23,7 @@ It is recommended to use the Epic Games Launcher, follow the instructions and in
 
 * **[.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)**
 
-### Generating project files
+### Generating Project Files
 
 1. Download or clone the **[SCP5K SDK](https://github.com/unselles/SCP5K_SDK)**, **cloning is recommended for future updates.**
 2. After downloading/cloning, right-click the `.uproject` and `Generate Visual Studio project files`.
@@ -34,7 +34,7 @@ It is recommended to use the Epic Games Launcher, follow the instructions and in
 If the project generated successfully, a few **new folders/files will show up**. (e.g. the Intermediate folder and .sln file)
 :::
 
-### Compiling the project in Visual Studio
+### Compiling the Project in Visual Studio
 
 1. Make sure the solution configuration is set to `Development Editor Win64`.
 2. Right-click the Pandemic solution `(Pandemic.sln)` and open with `Visual Studio` or `Rider`.
@@ -48,7 +48,7 @@ If the project generated successfully, a few **new folders/files will show up**.
 Building projects can take a while, ignore the warnings and watch for any errors.
 :::
 
-### Opening the project
+### Opening the Project
 
 1. Extract the zipped `UE4Editor-PlanarCut`.
 2. Move the extracted file to `Binaries\Win64`.
