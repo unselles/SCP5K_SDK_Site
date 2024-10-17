@@ -33,7 +33,7 @@ To start, we need to extract textures from the game packages.
 
 2. Once all files have been reimported, you can **[package your mod](../creatingpackages/index.md).**
 
-Your texture should now be visible in-game!
+**Your texture should now be visible in-game!**
 
 :::tip
 Rather than creating the folders manually, you may simply **drag & drop the extracted folders**, this will automatically create the hierarchy for you.
