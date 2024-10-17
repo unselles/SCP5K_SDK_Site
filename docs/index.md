@@ -21,6 +21,7 @@ It is recommended to have basic understanding of `Unreal Engine 4` and other pro
 * **[Unreal Engine 4.27](https://www.unrealengine.com/en-US/download)** from Epic Games Launcher or binary build.
 * **[Visual Studio 2019 Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)** or later.
 * **[GitHub Desktop](https://github.com/apps/desktop)** or alternative (Optional for cloning the repositories).
+* **[Blender](https://store.steampowered.com/app/365670/Blender/)** or alternative for editing 3D models.
 
 :::info
 Visual Studio installation is only required for the SDK.
