@@ -54,7 +54,7 @@ If you can't see the newly created plugin, ensure that **Show Plugin Content** i
 
 ![ueimport.gif](assets/ueimport.gif)
 
-### Creating Material and Assigning Materials
+### Creating Materials and Textures
 
 :::info
 This section is optional unless you want to create your own textures and materials.
