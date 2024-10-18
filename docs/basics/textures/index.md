@@ -30,6 +30,7 @@ To start, we need to extract textures from the game packages.
 1. Open your Unreal Engine mod project and create a folder structure that matches the location of the extracted texture. In the case of our SCP-173 example, it would be as follows:
 
 ![folderhierarchy.png](assets/folderhierarchy.png)
+
 `Content > SCPPandemic > Characters > 173-B > Textures`
 
 2. Once all files have been reimported, you can **[package your mod](../creatingpackages/index.md).**
