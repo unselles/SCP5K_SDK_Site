@@ -16,6 +16,11 @@ As SCP:5K is currently in its alpha development stage, some parts of this docume
 
 It is recommended to have basic understanding of `Unreal Engine 4` and other programs associated, such as image editing programs, or Visual Studio/Blueprint Script for the more advanced.
 
+## New To Modding?
+
+If you're entirely new to modding Unreal Engine, start simple by [creating your first custom textures!](basics/textures/index.md)
+
+
 ### General Prerequisites
 
 * **[Unreal Engine 4.27](https://www.unrealengine.com/en-US/download)** from Epic Games Launcher or binary build.
