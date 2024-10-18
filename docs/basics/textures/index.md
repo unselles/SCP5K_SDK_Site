@@ -23,13 +23,14 @@ To start, we need to extract textures from the game packages.
 
 ![extracttexture.png](assets/extracttexture.png)
 
-4. Edit the texture using the image editing software of your choice.
+4. Edit and export the texture using the image editing software of your choice. For Unreal Engine, it is recommended to use `.TGA` or `.PNG`.
 
 ### Reimporting Your Textures in Unreal Engine
 
 1. Open your Unreal Engine mod project and create a folder structure that matches the location of the extracted texture. In the case of our SCP-173 example, it would be as follows:
 
 ![folderhierarchy.png](assets/folderhierarchy.png)
+`Content > SCPPandemic > Characters > 173-B > Textures`
 
 2. Once all files have been reimported, you can **[package your mod](../creatingpackages/index.md).**
 
