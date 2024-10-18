@@ -38,6 +38,12 @@ This should start the cooking process, you can ignore any warnings. **Cooking co
 3. Next, go back to your project’s cooked `Content` folder and copy both the `Content and Plugins` folders. Depending on the content you’ve modified, you might only have one of these folders.
 4. Paste the copied folder(s) over to your mod folder. **Do not copy any other folders.**
 
+:::danger
+If creating content inside a Plugins folder, it is required to create an additional folder called **AffrayCore** first and placing the plugin folder inside of it. 
+
+For example: `pakchunk99-Mods_YourModName_P\Plugins\AffrayCore\FPSController\Content\Weapons\MK18`
+::: 
+
 ### Creating Packages from Cooked Content
 
 1. To create packages from your cooked content, we’ll first need to modify the provided batch file.  **Open the .bat file** in a text editor and changed the following line:
