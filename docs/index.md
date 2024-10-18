@@ -18,7 +18,7 @@ It is recommended to have basic understanding of `Unreal Engine 4` and other pro
 
 ## New To Modding?
 
-If you're entirely new to modding Unreal Engine, start simple by [creating your first custom textures!](basics/textures/index.md)
+If you're entirely new to modding Unreal Engine, start simple by **[creating your first custom textures!](basics/textures/index.md)**
 
 
 ### General Prerequisites
