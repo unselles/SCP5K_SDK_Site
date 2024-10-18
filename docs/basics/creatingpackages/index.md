@@ -35,7 +35,7 @@ This should start the cooking process, you can ignore any warnings. **Cooking co
 * **The _P portion is used to 'patch' the files, which helps prevent unnecessary crashes.** The rest of the name is optional, but it's helpful for organization.
 :::
  
-3. Next, go back to your project’s cooked `Content` folder and copy both the `Content and Plugins` folders. Depending on the content you’ve modified, you might only have one of these folders. Paste the copied folder(s) into your mod folder. **Do not to copy any other folders.**
+3. Next, go back to your project’s cooked `Content` folder and copy both the `Content and Plugins` folders. Depending on the content you’ve modified, you might only have one of these folders.
 4. Paste the copied folder(s) over to your mod folder. **Do not copy any other folders.**
 
 ### Creating Packages from Cooked Content
