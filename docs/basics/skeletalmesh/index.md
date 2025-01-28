@@ -34,14 +34,14 @@ FModel supports several formats. It is recommended to the `.UEModel` format, tho
 
 ![blenderimport.png](assets/blenderimport.png)
 
+:::danger
+When importing with Sockets, make sure to uncheck **Deform** in the **Bone Properties** tab. You can easily select sockets using **Bone Collections** in **Object Data Properties**.
+:::
+
 4. After making the desired changes to the imported model, rename the armature object to **Armature**. Then, in the Scene tab, set the **Unit Scale to 0.01**.
 5. When exporting the model, use the `.FBX` format and apply the following settings:
 
 ![blenderfbxexport.png](assets/blenderfbxexport.png)
-
-:::danger
-When importing with Sockets, make sure to uncheck **Deform** in the **Bone Properties** tab. You can easily select sockets using **Bone Collections** in **Object Data Properties**.
-:::
 
 ### Importing the Model into Unreal Editor
 
