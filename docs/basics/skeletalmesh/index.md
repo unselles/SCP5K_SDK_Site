@@ -39,6 +39,10 @@ FModel supports several formats. It is recommended to the `.UEModel` format, tho
 
 ![blenderfbxexport.png](assets/blenderfbxexport.png)
 
+:::danger
+When importing with Sockets, make sure to uncheck **Deform** in the **Bone Properties** tab. You can easily select sockets using **Bone Collections** in **Object Data Properties**.
+:::
+
 ### Importing the Model into Unreal Editor
 
 1. Create a folder hierarchy that matches the location of the extracted asset, in our case: `Plugins/AffrayCore/FPSController/Content/Weapons/Glock19X/Meshes/`
