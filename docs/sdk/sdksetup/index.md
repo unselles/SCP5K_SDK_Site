@@ -4,10 +4,6 @@ sidebar_position: 1
 
 # Setting Up the Unofficial SDK
 
-:::danger
-As of version `0.15.0.107`, the SKD became outdated and the link has been removed for the time being. Please wait for further updates.
-:::
-
 :::warning
 This is an advanced section and requires **Visual Studio** and compiling of the project. Read the instructions carefully.
 :::
@@ -29,7 +25,12 @@ It is recommended to use the Epic Games Launcher, follow the instructions and in
 
 ### Generating Project Files
 
-1. Download or clone the ~~**[SCP5K SDK](https://github.com/)**~~, **cloning is recommended for future updates.**
+1. Download or clone the **[SCP5K SDK](https://github.com/SCP5K-Modding/SCP5K_SDK)**, **cloning is recommended for future updates.**
+  
+:::danger
+You must switch to the **0.16** branch to use for the latest update!
+:::
+
 2. After downloading/cloning, right-click the `.uproject` and `Generate Visual Studio project files`.
 
 ![uproject_generate.webp](assets/uproject_generate.webp)
