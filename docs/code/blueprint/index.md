@@ -5,7 +5,7 @@ sidebar_position: 5
 # Blueprint Script
 
 :::danger
-**Section heavily WIP!!!**
+**As of 0.17.1, a third-party mod loader is no longer necessary! Please wait for the docs to be updated.**
 :::
 
 ### Prerequisites
