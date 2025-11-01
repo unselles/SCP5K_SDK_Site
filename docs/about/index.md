@@ -17,3 +17,4 @@ To contribute, you can clone the site's source from the GitHub repository and cr
 
 * **[SCP:5K Steam Page](https://store.steampowered.com/app/872670/SCP_5K/)**
 * **[SCP:5K Official Website](https://scp5k.gg)**
+* **[SCP:5K Official Modding Hub](https://discord.gg/B4mEhKQfDT)**
