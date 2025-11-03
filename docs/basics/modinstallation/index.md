@@ -15,7 +15,7 @@ After the **Mod Support update - 0.17.1**, the game now allows mods to be loaded
 
 1. Navigate to your game installation directory: (C:\SteamLibrary\steamapps\common\)`\5K\WindowsNoEditor\Pandemic\`
 2. If it doesn’t already exist, create a new folder named `Mods`.
-3. Place your `Mod Package` inside the `Mods` directory.
+3. Place your Mod Package inside the `Mods` directory.
 4. Launch the game. Now you should notice your installed mods show up in the menus! Hover over to see the list of currently loaded mods.
 
 ![mods.jpg](assets/Pandemic_2YEw5F5yg5.jpg)
