@@ -1,8 +1,12 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
-# Creating Mod Packages (.Pak Files)
+# Creating Content Packages (.Pak Files) - Outdated
+
+:::danger
+**THIS IS NO LONGER NECESSARY AFTER 0.17.1! USE [Creating Mod Packages](../creatingmodpackages/index.md) INSTEAD!**
+:::
 
 :::info
 This section covers creating packages recognized by Unreal Engine (.pak files), this allows to patch the game files, replacing or adding new content to the game.
