@@ -11,9 +11,8 @@ This section covers creating packages recognized by the game natively (plugin mo
 ### Prerequisites
 
 * **[Unreal Engine 4.27](https://www.unrealengine.com/en-US/download)**
-* **[Mod Tools](assets/UnrealPak.zip)** and [MkRelease](assets/MkRelease.bat) - tools created by AffrayCo, **Mod Tools not required if not utilizing the [SDK](../../sdk/sdksetup/index.md)**
+* **[Mod Tools](https://github.com/AffrayCo/SCP5K-Mod-Tools)** and [MkRelease](assets/MkRelease.bat) - tools created by AffrayCo, **Mod Tools not required if not utilizing the [SDK](../../sdk/sdksetup/index.md)**
 * **[Project Launcher Profile](assets/MOD_F284BEC24BF267052C7A26807BF9AF1E.ulp2)**
-* ** **
 
 ### Creating the Mod Plugin
 

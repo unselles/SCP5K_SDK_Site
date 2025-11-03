@@ -1,0 +1,121 @@
+{
+	"Version": 28,
+	"Id": "F284BEC24BF267052C7A26807BF9AF1E",
+	"Name": "Mod",
+	"Description": "",
+	"BuildConfiguration": 4,
+	"ProjectSpecified": false,
+	"ShareableProjectPath": "",
+	"CookConfiguration": 4,
+	"CookIncremental": false,
+	"CookOptions": "-DLCPakPluginFIle",
+	"CookMode": 1,
+	"CookUnversioned": false,
+	"CookedCultures": [
+		"en"
+	],
+	"CookedPlatforms": [
+		"WindowsNoEditor"
+	],
+	"DeployStreamingServer": false,
+	"DeployWithUnrealPak": true,
+	"DeployedDeviceGroupId": "05150FCE4510ABA3C382B3BE65DE601C",
+	"DeploymentMode": 0,
+	"HideFileServerWindow": false,
+	"LaunchMode": 2,
+	"PackagingMode": 1,
+	"PackageDir": "C:/Unreal Projects/SCP5K SDK ModTools/SCP5K_SDK/Mods",
+	"BuildMode": 2,
+	"ForceClose": true,
+	"Timeout": 60,
+	"Compressed": true,
+	"EncryptIniFiles": false,
+	"ForDistribution": true,
+	"DeployPlatform": "None",
+	"NumCookersToSpawn": 0,
+	"SkipCookingEditorContent": false,
+	"DeployIncremental": false,
+	"GeneratePatch": false,
+	"AddPatchLevel": false,
+	"StageBaseReleasePaks": false,
+	"DLCIncludeEngineContent": true,
+	"CreateReleaseVersion": false,
+	"CreateReleaseVersionName": "",
+	"BasedOnReleaseVersionName": "0.17.1",
+	"CreateDLC": true,
+	"DLCName": "TestMod",
+	"GenerateChunks": false,
+	"GenerateHttpChunkData": false,
+	"HttpChunkDataDirectory": "",
+	"HttpChunkDataReleaseName": "",
+	"Archive": false,
+	"ArchiveDirectory": "",
+	"AdditionalCommandLineParameters": "",
+	"IncludePrerequisites": false,
+	"DefaultRole":
+	{
+		"AssignedDevice": "",
+		"CommandLine": "",
+		"DeviceId": "",
+		"InitialCulture": "en",
+		"InitialMapName": "",
+		"Name": "DefaultRole",
+		"InstanceType": 2,
+		"VsyncEnabled": false
+	},
+	"scripts": [
+		{
+			"script": "BuildCookRun",
+			"project": "",
+			"noP4": true,
+			"nocompile": true,
+			"nocompileeditor": true,
+			"ue4exe": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Cmd.exe",
+			"utf8output": true,
+			"clientconfig": [
+				"Shipping"
+			],
+			"serverconfig": [
+				"Shipping"
+			],
+			"platform": [
+				"Win64"
+			],
+			"targetplatform": "Win64",
+			"cmdline":
+			{
+				"": "",
+				"messaging": true
+			},
+			"device": [],
+			"addcmdline":
+			{
+				"sessionid": "7A79B5264DA26305C76D2896AB2F40DB",
+				"sessionowner": "aspik",
+				"sessionname": "Mod"
+			},
+			"map": [
+				""
+			],
+			"stagingdirectory": "C:/Unreal Projects/SCP5K SDK ModTools/SCP5K_SDK/Mods",
+			"build": false,
+			"cook": true,
+			"unversionedcookedcontent": false,
+			"pak": true,
+			"dlcname": "TestMod",
+			"generatepatch": false,
+			"basedonreleaseversion": "0.17.1",
+			"stagebasereleasepaks": false,
+			"manifests": false,
+			"": "true",
+			"iterativecooking": false,
+			"iteratesharedcookedbuild": false,
+			"skipcookingeditorcontent": false,
+			"compressed": true,
+			"EncryptIniFiles": false,
+			"ForDistribution": true,
+			"stage": true,
+			"package": true
+		}
+	]
+}
