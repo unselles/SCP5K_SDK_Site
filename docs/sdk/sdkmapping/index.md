@@ -2,6 +2,6 @@
 sidebar_position: 4
 ---
 
-# Custom Raids
+# Custom Maps
 
 **Work in progress...**
