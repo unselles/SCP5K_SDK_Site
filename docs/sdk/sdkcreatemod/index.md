@@ -15,7 +15,7 @@ This feature and the SDK are still under development by Affray and me, expect is
 Add the following launch argument:
 
 `-enablemods` enables mod support
-![img.png](assets/img.png)
+![enablemodding.png](assets/enablemodding.png)
 
 Other useful arguments:
 
