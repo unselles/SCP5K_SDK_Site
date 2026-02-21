@@ -34,7 +34,7 @@ https://github.com/AffrayCo/SCP5K-Mod-Tools
 
 Next, install and enable the plugin in the project settings.
 
-1. After downloading the plugin, place the contents in: `SCP5K_SDK_Build\Plugins`
+1. After downloading the plugin, place the contents in: `SCP5K_SDK\Plugins`
 2. In your SDK project, head over to `Edit > Plugins` and enable the Modding plugin.
 3. Restart the editor.
 
@@ -56,7 +56,7 @@ Next, download the **[SCP5K MOD PROFILE](assets/SCP5K%20MOD%20PROFILE_F284BEC24B
 2. Under `Package`, change the `Local Directory Path` to your desired output folder. This is where the mod will be packaged to.
 3. Next, under `Cook`, make sure that the `Release version` is correctly set and set the `Name of the DLC` to match your mod's name.
 4. Go back and `Launch this Profile`.
-5. Your mod should now be packaged and can be found in the output folder, for example, `SCP5K_SDK_Build\Mods\WindowsNoEditor\Pandemic\Plugins`.
+5. Your mod should now be packaged and can be found in the output folder, for example, `SCP5K_SDK\Mods\WindowsNoEditor\Pandemic\Plugins`.
 
 # Editing Mod Descriptor
 
