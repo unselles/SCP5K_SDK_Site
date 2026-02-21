@@ -14,13 +14,16 @@ This feature and the SDK are still under development by Affray and me, expect is
 
 Add the following launch argument:
 
-`-enablemods` enables mod support
+`-enablemods` to enable the mod support
+
 ![enablemodding.png](assets/enablemodding.png)
 
 Other useful arguments:
 
 `-allowoldmods` allows mods that are listed as for an older version of the game
+
 `-allowunversionedmods` allows mods that have no game version listed
+
 `-enablerawpakmods` enables mounting pak based mods with asset registry support but no binaries, checksum or other advanced features
 
 # Install the Mod Tools Plugin
@@ -45,9 +48,9 @@ Next, install and enable the plugin in the project settings.
 
 Once you are done with your mod, it needs to be packaged with an asset registry so that the game can find it and load correctly.
 
-Next, download the **SCP5K MOD PROFILE** and place it in `UE_4.27\Engine\Programs\UnrealFrontend\Profiles`
+Next, download the **[SCP5K MOD PROFILE](assets/SCP5K%20MOD%20PROFILE_F284BEC24BF267052C7A26807BF9AF1E.ulp2)** and place it in `UE_4.27\Engine\Programs\UnrealFrontend\Profiles`
 
-[SCP5K MOD PROFILE_F284BEC24BF267052C7A26807BF9AF1E.ulp2](assets/SCP5K%20MOD%20PROFILE_F284BEC24BF267052C7A26807BF9AF1E.ulp2)
+
 
 1. Navigate to `Window > Project Launcher > Edit Profile`
 2. Under `Package`, change the `Local Directory Path` to your desired output folder. This is where the mod will be packaged to.
@@ -59,7 +62,7 @@ Next, download the **SCP5K MOD PROFILE** and place it in `UE_4.27\Engine\Program
 
 Open the .uplugin file in the plugin folder and make sure to fill out any missing fields.
 
-**Example mod descriptor:**
+Example mod descriptor:
 
 `{
 "FileVersion": 3,
